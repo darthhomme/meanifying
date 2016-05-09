@@ -3,10 +3,6 @@
     "version": "1.0.0",
     "description": "MEAN Stack application using Google Maps API",
     "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
-    },
     "author": "Josh Kim",
     "dependencies" : {
         "express"    : "~4.7.2",
